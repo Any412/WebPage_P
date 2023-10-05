@@ -1,0 +1,67 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Website2_devexpress.Default" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body style="background-color: #EEEEEE; width:100%;">
+    <form id="form1" runat="server">
+        <table style="background-color:silver;width:100%;">
+            <tr>
+                <td colspan="2" style="background-color:white; height: 70px;"></td>
+                <td rowspan="7">
+                    <img alt="" src="Picture/image%20p3.jpg" style="width: 754px; height: 574px" /></td>
+            </tr>
+            <tr>
+                <td style="width: 111px">&nbsp;</td>
+                <td style="width: 833px">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 111px; height: 16px;"></td>
+                <td style="font-family: 'Segoe UI'; font-size: 35px; font-weight: bold; width: 833px; height: 16px; vertical-align: bottom;">Reporting and BI Dashboard</td>
+            </tr>
+            <tr>
+                <td style="width: 111px; height: 32px;"></td>
+                <td style="font-family: 'Segoe UI'; font-size: x-large; font-weight: bold; color: #9C9C9C; width: 833px; height: 32px; vertical-align: top;">for Windows, the Web and Your Mobile World</td>
+            </tr>
+            <tr>
+                <td style="height: 35px; width: 111px"></td>
+                <td style="height: 35px; font-family: 'Segoe UI';font-size: large; font-weight: normal; color: #666666; width: 833px; vertical-align: top; line-height: 25px; text-align: left;">Deliver high-performance decision support systems and analytics dashboards across platforms and devices with our fully integrated suite of UI controls, reporting tools and dashboards.</td>
+            </tr>
+            <tr>
+                <td style="height: 26px; width: 111px">&nbsp;</td>
+                <td style="height: 26px;font-family: 'Segoe UI';font-size: large; font-weight: normal; color: #666666; width: 833px;">&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <table style="width:100%;">
+                        <tr>
+                            <td style="width: 167px; text-align: right; vertical-align: middle;">
+                                <img alt=""style="background-color:#26A4DD; width: 30px; height: 30px; border-radius:4px 4px;" src="Picture/icons/chart2.png" /></td>
+                            <td style="font-family: 'Segoe UI'; font-size: medium; font-weight: normal; color: #666666;line-height:35px;">Royalty-Free Reporting for Developers</td>
+                        </tr>
+                        <tr>
+                            <td style="width: 167px; text-align: right; vertical-align: middle;">
+                                <img alt="" style="background-color:#26A4DD; width: 30px; height: 30px; border-radius:4px 4px;" src="Picture/icons/Graph.png" /></td>
+                            <td style="font-family: 'Segoe UI'; font-size: medium; font-weight: normal; color: #666666;line-height:35px;">Royalty-Free BI Dashboard for Developers</td>
+                        </tr>
+                        <tr>
+                            <td style="width: 167px; text-align: right; vertical-align: middle;">
+                                <img alt="" style="background-color:#26A4DD; width: 30px; height: 30px; border-radius:4px 4px;" src="Picture/icons/Certificate.png" /></td>
+                            <td style="font-family: 'Segoe UI'; font-size: medium; font-weight: normal; color: #666666;line-height:35px;">Report &amp; Dashboard Server for the Enterprise</td>
+                        </tr>
+                        <tr>
+                            <td style="width: 167px">&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <div>
+        </div>
+    </form>
+</body>
+</html>
